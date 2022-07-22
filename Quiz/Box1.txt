@@ -1,0 +1,42 @@
+-Azenin paytaxti haradir?
+Baki
+Sumqayit
+Bileceri
+Naxcivan
+a
+-RTE'nin acilisi nedir?
+Remarka telefonlara endirim
+Recep Tayyip Erdogan
+Rata Mata Sata
+empty
+b
+-En yaxsisi hansidir?
+RTX|3060
+RTX|1650
+empty
+empty
+a
+-Kondisionerlerde cox vaxt minimum derece hansi olur?
+17
+18
+16
+14
+c
+-VSC'nin hansi versiyasinda "Run" duymesi elave olundu?
+2021
+2019
+2022
+empty
+c
+-true or false?
+true
+false
+empty
+empty
+a
+-nice greek video?
+idk
+howeew
+sad
+sad
+a
